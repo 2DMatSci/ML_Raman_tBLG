@@ -43,8 +43,8 @@ along with Machine Learning Raman tBLG. If not, see <http://www.gnu.org/licenses
 
 ## Citations
 
-The detailed results are provided in the paper:
+The detailed results are provided in the following paper:
 
-* "_Machine Learning Determination of the Twist Angle of Bilayer Graphene: Implications for Twisted van der Waals Heterostructures_", P. Solís-Fernández and H. Ago, ACS Applied Nano Materials (vol) (pages) (year) (doi).
+* "_Machine Learning Determination of the Twist Angle of Bilayer Graphene: Implications for Twisted van der Waals Heterostructures_", P. Solís-Fernández and H. Ago, _ACS Applied Nano Materials_ 5, 1356-1366, **2022** doi:10.1021/acsanm.1c03928.
 
 If you find this useful, please consider citing the paper in your research.
