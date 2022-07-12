@@ -1,6 +1,6 @@
 # Machine Learning Raman tBLG
 
-This repository holds the example code and reduced dataset to determine the twist angle of twisted bilayer graphene (tBLG) from its Raman spectrum. The code and the datasets are simplified versions of those used in (_publication_)
+This repository holds the example code and reduced dataset to determine the twist angle of twisted bilayer graphene (tBLG) from its Raman spectrum. The code is a functional version of that used in the published paper (_ACS Applied Nano Materials_ 5, 1356-1366, **2022** doi:10.1021/acsanm.1c03928).
 
 ## Usage
 
@@ -11,7 +11,7 @@ Start ml_raman_tblg.py with the arguments "train" or "predict":
 
 All the output files will be saved in the "results" folder.
 
-For testing purposes, a reduced training dataset (train_dataset.csv) is included, along with the datasets from figures 4d and 4g of (_publication_).
+For testing purposes, the complete training dataset (train_dataset.csv) is included, along with the datasets from figures 4d and 4g of _ACS Applied Nano Materials_ 5, 1356-1366, **2022** doi:10.1021/acsanm.1c03928.
 
 ## License
 
